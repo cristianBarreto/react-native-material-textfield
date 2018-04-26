@@ -435,6 +435,8 @@ export default class TextField extends PureComponent {
           inputRange:  [-1, 0, 1],
           outputRange: [titleFontSize, 0, 0],
         }),
+      
+      fontFamily: 'Rajdhani-Regular'
     };
 
     let titleStyle = {
