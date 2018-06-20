@@ -66,6 +66,7 @@ export default class Affix extends PureComponent {
     };
 
     let textStyle = {
+      fontFamily: 'Rajdhani-Regular',
       color,
       fontSize,
     };
